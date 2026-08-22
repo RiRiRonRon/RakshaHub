@@ -7,7 +7,7 @@
                                                                                                             
 
 
-Your personal media hub for movies and TV shows  organized, tracked, and ready to watch. 
+Your personal media hub for movies , TV shows and Books organized, tracked, and ready .
 
 
                                                                                                             
