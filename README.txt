@@ -25,3 +25,5 @@ Requirements:
 5. Run windeployqt
 
  
+![App Screenshot](https://github.com/RiRiRonRon/RakshaHub/blob/main/screenshot/Capture%20d'%C3%A9cran%202026-08-04%20115804.png?raw=true)
+
